@@ -1,9 +1,20 @@
+ LachusBranch
+This is madness!
+
+Madness!!!!
+
+It is not madness!
 This is madness!
 
 THis 
  is
  spARta!
 
+<<<<<<< HEAD
  That isn't Madness, THIS is MaDdDNeSS!
 
 No it is not!!!
+=======
+M m m m m madness.
+
+>>>>>>> main
