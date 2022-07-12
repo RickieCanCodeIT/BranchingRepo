@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+Madness.txt
+sooooconfused
+=======
+ LachusBranch
+This is madness!
+
+Madness!!!!
+
+It is not madness!
 This is madness!
 
 THis 
@@ -5,3 +15,6 @@ THis
  spARta!
 
 M m m m m madness.
+
+super madness?
+>>>>>>> main
