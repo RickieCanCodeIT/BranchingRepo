@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+Madness.txt
+sooooconfused
+=======
  LachusBranch
 This is madness!
 
@@ -13,3 +17,4 @@ THis
 M m m m m madness.
 
 super madness?
+>>>>>>> main
