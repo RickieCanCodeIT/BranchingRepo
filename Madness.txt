@@ -1,3 +1,9 @@
 This is madness!
 
+<<<<<<< HEAD
 aka
+=======
+THis 
+ is
+ spARta!
+>>>>>>> main
